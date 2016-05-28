@@ -12,7 +12,6 @@ Gem::Specification.new do |s|
   s.description = "Pluggable settings for your AR models."
 
   s.required_rubygems_version = ">= 1.3.6"
-  # s.rubyforge_project         = "tunable"
 
   s.add_runtime_dependency "activerecord", "~> 4.2.1"
   s.add_runtime_dependency "activesupport", "~> 4.2.1"
